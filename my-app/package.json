@@ -2,6 +2,7 @@
   "name": "kaiog",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,4 +31,3 @@
     "typescript": "5.1.3"
   }
 }
-
