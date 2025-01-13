@@ -1,5 +1,5 @@
 module.exports = {
     reactStrictMode: true,
-    output: 'export',
+    output: 'standalone', // или другое значение, если используется сборка без экспорта
   };
   
